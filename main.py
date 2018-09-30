@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 from bar import dishroom, huh, sports
 from foo import Foo
 from residents import luca
